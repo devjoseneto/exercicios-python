@@ -1,0 +1,8 @@
+--- Resultado ---
+Área total: 200m²
+Litros necessários (com 10% de folga): 36.67 L
+
+Apenas latas de 18L: 3 lata(s) → R$ 240.00
+Apenas galoes de 3.6L: 11 galao(ões) → R$ 275.00
+Combinação otimizada: 2 lata(s) e 1 galão(ões) → R$ 185.00
+Melhor opção: Mistura otimizada
