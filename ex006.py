@@ -19,7 +19,7 @@ def ler_numero(msg):
             print("Por favor, digite um número válido!")
 
 def main():
-    """ Função principal"""
+    """ Função principal """
     n1 = ler_numero("Digite o primeiro valor: ")
     n2 = ler_numero("Digite o segundo valor: ")
 
